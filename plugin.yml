@@ -1,0 +1,11 @@
+name: DarkSneak
+version: 1.0.4.4
+author: Celeo
+website: www.darktidegames.com
+description: DarkTide's sneak plugin
+main: com.darktidegames.celeo.DarkSneakCore
+commands:
+  sneak:
+    usage: /<command>
+    description: Toggles sneak mode
+    aliases: [DarkSneak, sneak, s]
